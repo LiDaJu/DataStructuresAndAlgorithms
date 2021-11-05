@@ -12,7 +12,7 @@ namespace Sparse_Array
             //Console.WriteLine("Hello World!");
             var sparseArr = ArrayToSparse();
 
-            SparseToArray(sparseArr);
+            SparseToArray(sparseArr); 
         }
 
         /// <summary>
