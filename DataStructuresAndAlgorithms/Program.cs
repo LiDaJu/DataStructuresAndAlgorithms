@@ -57,18 +57,19 @@ namespace Sparse_Array
             sparseArray[0, 0] = 6;
             sparseArray[0, 1] = 7;
             sparseArray[0, 2] = count;
-            for (int i = 1; i < sparseArray.GetLength(0); i++)
+
+            var a = 1;
+
+            for (int k = 0; k < array.GetLength(0); k++)
             {
-                for (int k = 0; k < array.GetLength(0); k++)
+                for (int j = 0; j < array.GetLength(1); j++)
                 {
-                    for (int j = 0; j < array.GetLength(1); j++)
+                    if (array[k, j] != 0)
                     {
-                        if (array[k, j] != 0)
-                        {
-                            sparseArray[i, 0] = k;
-                            sparseArray[i, 1] = j;
-                            sparseArray[i, 2] = array[k, j];
-                        }
+                        sparseArray[a, 0] = k;
+                        sparseArray[a, 1] = j;
+                        sparseArray[a, 2] = array[k, j];
+                        a++;
                     }
                 }
             }
