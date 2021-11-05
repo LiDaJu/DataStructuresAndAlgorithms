@@ -10,9 +10,9 @@ namespace Sparse_Array
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            ArrayToSparse();
+            var sparseArr = ArrayToSparse();
 
-
+            SparseToArray(sparseArr);
         }
 
         /// <summary>
@@ -82,8 +82,33 @@ namespace Sparse_Array
                 }
                 Console.WriteLine(" ");
             }
-
+            Console.WriteLine("-------------------");
             return sparseArray;
+        }
+
+        /// <summary>
+        /// 将稀疏数组转成原数组
+        /// </summary>
+        /// <param name="sparse"></param>
+        public static void SparseToArray(int[,] sparse)
+        {
+            int[,] array = new int[sparse[0, 0], sparse[0, 1]];
+
+            for (int i = 1; i < sparse.GetLength(0); i++)
+            {
+                array[sparse[i, 0], sparse[i, 1]] = sparse[i, 2];
+            }
+
+            for (int i = 0; i < array.GetLength(0); i++)
+            {
+                for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    Console.Write(array[i, j] + "\t");
+                }
+                Console.WriteLine(" ");
+            }
+
+            Console.WriteLine("-------------------");
         }
     }
 }
