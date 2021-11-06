@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\Sparse_Array.csproj",
+      "projectUniqueName": "C:\\Users\\jiutian\\Desktop\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\Sparse_Array.csproj",
       "projectName": "Sparse_Array",
-      "projectPath": "E:\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\Sparse_Array.csproj",
+      "projectPath": "C:\\Users\\jiutian\\Desktop\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\Sparse_Array.csproj",
       "packagesPath": "C:\\Users\\jiutian\\.nuget\\packages\\",
-      "outputPath": "E:\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\obj\\",
+      "outputPath": "C:\\Users\\jiutian\\Desktop\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\"
