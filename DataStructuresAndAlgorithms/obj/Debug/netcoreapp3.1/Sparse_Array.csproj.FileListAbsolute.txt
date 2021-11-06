@@ -23,3 +23,16 @@ D:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3
 D:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.dll
 D:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.pdb
 D:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.genruntimeconfig.cache
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\Sparse_Array.exe
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\Sparse_Array.deps.json
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\Sparse_Array.runtimeconfig.json
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\Sparse_Array.runtimeconfig.dev.json
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\Sparse_Array.dll
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\Sparse_Array.pdb
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.csprojAssemblyReference.cache
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.AssemblyInfoInputs.cache
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.AssemblyInfo.cs
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.csproj.CoreCompileInputs.cache
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.dll
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.pdb
+E:\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\Sparse_Array.genruntimeconfig.cache
