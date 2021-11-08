@@ -1,0 +1,13 @@
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.csprojAssemblyReference.cache
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.AssemblyInfoInputs.cache
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.AssemblyInfo.cs
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.csproj.CoreCompileInputs.cache
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\bin\Debug\netcoreapp3.1\Queue_Study.exe
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\bin\Debug\netcoreapp3.1\Queue_Study.deps.json
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\bin\Debug\netcoreapp3.1\Queue_Study.runtimeconfig.json
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\bin\Debug\netcoreapp3.1\Queue_Study.runtimeconfig.dev.json
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\bin\Debug\netcoreapp3.1\Queue_Study.dll
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\bin\Debug\netcoreapp3.1\Queue_Study.pdb
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.dll
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.pdb
+C:\Users\jiutian\Desktop\DataStructuresAndAlgorithms\Queue_Study\obj\Debug\netcoreapp3.1\Queue_Study.genruntimeconfig.cache
